@@ -1,4 +1,3 @@
-
 ############### Beginner Level Challenges ###############
 def test1():
 	# given lists
