@@ -43,7 +43,7 @@ def test2():
 
 
 
-############### Intermediate Level ###############
+############### Intermediate Level Challenges ###############
 def test3():
   my_list = [1, 4, 5, 2, 3, 9, 2, 3]
 
@@ -67,7 +67,7 @@ def test4():
   # for i in range(len(words)):
   #   print(words[i], i)
 
-  # Print out is “The TVA is not real” using list indexing methods
+  # Print out “The TVA is not real” using list indexing methods
 
   # Print out “MOBIUS the jet skier”
 
